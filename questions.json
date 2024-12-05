@@ -33,7 +33,7 @@
         "Only after the truck breaks down"
       ],
       "correctOption": 2,
-      "points": 20,
+      "points": 10,
       "funFact": "PM C services dive deep, checking alignment, components, and more to avoid costly repairs."
     },
     {
@@ -45,7 +45,7 @@
         "PM D"
       ],
       "correctOption": 3,
-      "points": 20,
+      "points": 10,
       "funFact": "PM D is rare but crucial for keeping vehicles running long-term and avoiding catastrophic failures."
     },
     {
@@ -69,7 +69,7 @@
         "Over 50,000 miles"
       ],
       "correctOption": 1,
-      "points": 20,
+      "points": 10,
       "funFact": "Regular maintenance at these intervals helps prevent costly downtimes."
     },
     {
@@ -91,6 +91,30 @@
       "correctOption": 1,
       "points": 10,
       "funFact": "Alignment checks in PM C ensure the tires wear evenly and the vehicle handles properly."
+    },
+    {
+      "question": "What is the main goal of a PM A service?",
+      "options": [
+        "To replace worn-out parts",
+        "To address engine performance issues",
+        "To perform quick safety checks on essential components",
+        "To upgrade vehicle features"
+      ],
+      "correctOption": 2,
+      "points": 10,
+      "funFact": "PM A ensures your vehicle meets safety standards and avoids potential hazards on the road."
+    },
+    {
+      "question": "Which of the following is typically checked during a PM C service?",
+      "options": [
+        "Fluid levels and tire pressure",
+        "Electrical systems and wiring",
+        "Cabin air filters and wipers",
+        "All of the above"
+      ],
+      "correctOption": 3,
+      "points": 10,
+      "funFact": "PM C services cover an extensive checklist to maintain vehicle reliability and efficiency."
     }
   ]
 }
