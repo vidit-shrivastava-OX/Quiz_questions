@@ -10,7 +10,7 @@
       ],
       "correctOption": 1,
       "points": 10,
-      "funFact": "PM A services are quick but critical, ensuring your vehicle’s basics are in top shape!"
+      "funFact": "Fun Fact 💡: PM A services are quick but critical, ensuring your vehicle’s basics are in top shape!"
     },
     {
       "question": "PM B is often nicknamed the 'Oil Whisperer.' Why?",
@@ -22,7 +22,7 @@
       ],
       "correctOption": 1,
       "points": 10,
-      "funFact": "PM B also builds on PM A by adding more detailed inspections!"
+      "funFact": "Fun Fact 💡: PM B also builds on PM A by adding more detailed inspections!"
     },
     {
       "question": "How often should PM C services typically be scheduled for medium and heavy-duty trucks?",
@@ -34,7 +34,7 @@
       ],
       "correctOption": 2,
       "points": 10,
-      "funFact": "PM C services dive deep, checking alignment, components, and more to avoid costly repairs."
+      "funFact": "Fun Fact 💡: PM C services dive deep, checking alignment, components, and more to avoid costly repairs."
     },
     {
       "question": "Which PM service might involve rebuilding or replacing major components like an engine or transmission?",
@@ -46,7 +46,7 @@
       ],
       "correctOption": 3,
       "points": 10,
-      "funFact": "PM D is rare but crucial for keeping vehicles running long-term and avoiding catastrophic failures."
+      "funFact": "Fun Fact 💡: PM D is rare but crucial for keeping vehicles running long-term and avoiding catastrophic failures."
     },
     {
       "question": "PM D services can include seasonal customizations. Which of these is NOT an example?",
@@ -58,7 +58,7 @@
       ],
       "correctOption": 2,
       "points": 10,
-      "funFact": "PM D focuses on functionality, like preparing vehicles for extreme weather conditions."
+      "funFact": "Fun Fact 💡: PM D focuses on functionality, like preparing vehicles for extreme weather conditions."
     },
     {
       "question": "What is the typical mileage interval for scheduling a PM B service for heavy-duty trucks?",
@@ -70,7 +70,7 @@
       ],
       "correctOption": 1,
       "points": 10,
-      "funFact": "Regular maintenance at these intervals helps prevent costly downtimes."
+      "funFact": "Fun Fact 💡: Regular maintenance at these intervals helps prevent costly downtimes."
     },
     {
       "question": "“Trailers don’t need their own preventive maintenance program since they’re not powered vehicles.”",
@@ -80,7 +80,7 @@
       ],
       "correctOption": 1,
       "points": 10,
-      "funFact": "Trailers must undergo regular PM to ensure safety and compliance, especially for brakes and lights."
+      "funFact": "Fun Fact 💡: Trailers must undergo regular PM to ensure safety and compliance, especially for brakes and lights."
     },
     {
       "question": "PM C services should include an alignment check.",
@@ -90,7 +90,7 @@
       ],
       "correctOption": 1,
       "points": 10,
-      "funFact": "Alignment checks in PM C ensure the tires wear evenly and the vehicle handles properly."
+      "funFact": "Fun Fact 💡: Alignment checks in PM C ensure the tires wear evenly and the vehicle handles properly."
     },
     {
       "question": "What is the main goal of a PM A service?",
@@ -102,7 +102,7 @@
       ],
       "correctOption": 2,
       "points": 10,
-      "funFact": "PM A ensures your vehicle meets safety standards and avoids potential hazards on the road."
+      "funFact": "Fun Fact 💡: PM A ensures your vehicle meets safety standards and avoids potential hazards on the road."
     },
     {
       "question": "Which of the following is typically checked during a PM C service?",
@@ -114,7 +114,7 @@
       ],
       "correctOption": 3,
       "points": 10,
-      "funFact": "PM C services cover an extensive checklist to maintain vehicle reliability and efficiency."
+      "funFact": "Fun Fact 💡: PM C services cover an extensive checklist to maintain vehicle reliability and efficiency."
     }
   ]
 }
